@@ -1,9 +1,27 @@
 body {
-  background-color: powderblue;
+  background-color: coral;
 }
 h1 {
-  color: blue;
+  color: black;
+   font-size:300%;
+   text-align:center;
+   font-family:courier;
+   border:2px solid Tomato;
+   padding: 30px;
+   margin: 50px;
 }
+h2 {
+  color: black;
+   font-size:200%;
+   text-align:center;
+   font-family:courier;
+   border:2px solid Tomato;
+   padding: 30px;
+   margin: 50px;
+}
+
 p {
-  color: red;
+  color: black;
+  font-size:100%;
+   text-align:center;
 }
